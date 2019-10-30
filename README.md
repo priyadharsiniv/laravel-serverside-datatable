@@ -1,4 +1,4 @@
-# SparkTable
+# LaravelDataTable
 
 ### Server side pagination using Datatable and Laravel. 
 
