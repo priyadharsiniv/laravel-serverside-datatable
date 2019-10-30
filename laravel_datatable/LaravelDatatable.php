@@ -1,5 +1,5 @@
 <?php
-namespace Sparkout;
+namespace laravel_datatable;
 
 class LaravelDatatable {
 
